@@ -11,7 +11,7 @@ September 28, 2018
 Jonathan Poteet
 
 ## Project Description:
-In this assignment, we learned how to use git and version control systems. We created a website and moved it onto GitHub.
+In this assignment, we learned how to use git and version control systems. We created a website and moved it onto GitHub. We made sure that GitHub had 2 commits.
 
 ## Lessons Learned in the Assignment:
 1. We learned how to use git and git commands.
